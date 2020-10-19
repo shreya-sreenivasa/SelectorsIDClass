@@ -1,0 +1,30 @@
+h1 {
+    color: black;
+}
+
+div {
+    display: inline-block;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    margin-right: 20px;
+    text-align: center;
+    line-height: 100px;
+}
+
+#blue-box {
+    background-color: lightblue;
+}
+
+#seagreen-box {
+    background-color: lightseagreen;
+}
+
+.coral-box {
+    background-color: lightcoral;
+}
+
+.cyan-box {
+    background-color: lightcyan;
+}
+
